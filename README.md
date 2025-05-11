@@ -1,6 +1,6 @@
-# Digital Communications (EE321) Assignments
+# Communication Systems (EE321) Assignments
 
-This repository contains MATLAB implementations of various digital communication system components and techniques.
+This repository contains MATLAB implementations of assignments of course EE321    .
 
 ## Structure
 
